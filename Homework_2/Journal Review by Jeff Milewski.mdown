@@ -2,9 +2,6 @@
 
 ### *‘Positive words carry less information than negative words’, by David Garcia, Antonio Garas, and Frank Schweitzer*
 
-### _Objective:_
-The objective of the study was to confirm previous studies and improve upon them by determining whether negative words carry more information than positive words. Since this paper focused on the emotion expressed in a word, the problem analyzed involved determining how best to quantify emotion in language. The valence term was used to express the value of emotional content and a relationship with a word’s information content was calculated, determining that a word’s valence is negatively correlated to its information content. 
-
 ### _Methodology:_
 The study’s methodology included calculations and data sets from past studies. The Google Ngram provided the researches with a data set to determine word usage and context on the Internet. Online written communication was used for the study, specifically English, German, and Spanish. To take into account the bias between positive and negative expressions, the paper used two analyses: quantifying emotional content in terms of valence and quantifying word usage frequency of the entire indexable Web. Between valence and information content, the authors calculated negative correlations among the three languages. Further calculations were performed involving context size and information content. 
 
